@@ -24,10 +24,10 @@ def get_dist(row):
     return distance
 
 
-CSVDir = 'C:\\Users\\kt733e\\Documents\\Work\\Proj\\Tail652\\CSV\\'
-table_dir = 'C:\\Users\\kt733e\\Documents\\Work\\Proj\\Tail652\\Table\\'
-airport_dir = 'C:\\Users\\kt733e\\Documents\\Work\\Proj\\airports.csv'
-runway_dir = 'C:\\Users\\kt733e\\Documents\\Work\\Proj\\runways.csv'
+CSVDir = 'C:\\Users\\tanveer\\Documents\\Work\\Proj\\Tail652\\CSV\\'
+table_dir = 'C:\\Users\\tanveer\\Documents\\Work\\Proj\\Tail652\\Table\\'
+airport_dir = 'C:\\Users\\tanveer\\Documents\\Work\\Proj\\airports.csv'
+runway_dir = 'C:\\Users\\tanveer\\Documents\\Work\\Proj\\runways.csv'
 
 airports = pd.read_csv(airport_dir)
 runways = pd.read_csv(runway_dir)
