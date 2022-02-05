@@ -15,7 +15,7 @@ import time
 
 # Specify user configuration
 TailNo = '652'  # See tailcounts.csv for list of aircraft numbers. Will only run one at at time
-homeDir = 'C:\\Users\\kt733e\\Documents\\work\\Proj\\'  # Specify directory containing working files
+homeDir = 'C:\\Users\\tanveer\\Documents\\work\\Proj\\'  # Specify directory containing working files
 output_format = 'parquet'   # File format for the output. Options are 'parquet' and 'csv'
 
 # Assigning directories     
