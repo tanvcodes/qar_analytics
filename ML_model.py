@@ -17,7 +17,7 @@ def landing(row):
     return x
 
 
-data = "C:\\Users\\kt733e\\Documents\\Work\\Proj\\Tail652\\Table\\table.csv"
+data = "C:\\Users\\tanveer\\Documents\\Work\\Proj\\Tail652\\Table\\table.csv"
 
 df = pd.read_csv(data)
 # defining plot parameters
